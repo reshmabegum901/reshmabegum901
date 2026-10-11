@@ -1,5 +1,5 @@
 Hi 👋, I'm Shaik Reshma Begum
-Aspiring Full Stack Developer | Python & Django Developer 💻
+Aspiring Full Stack Developer | Python developer 💻
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Python+%26+Django+Enthusiast;Building+Web+Applications;Always+Learning+New+Things!" alt="Typing SVG" /> </p>
 
